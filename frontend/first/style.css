@@ -1,0 +1,17 @@
+* {
+    background-color: azure;
+}
+p {
+    color: green;
+}
+
+#heading {
+    color: blue;
+    font-size: larger;
+}
+
+.box {
+    background-color: yellow;
+    list-style-position: inside;
+    width: fit-content;
+}
