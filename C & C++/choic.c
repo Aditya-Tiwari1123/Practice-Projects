@@ -11,7 +11,7 @@ int main(){
     a = num_gen(a);
     if(a<3){
         printf("R+N");
-    }else if(3<a<7){
+    }else if(a>3 && a<7){
         printf("R+T");
     }else{
         printf("R+C");
